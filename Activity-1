@@ -1,8 +1,8 @@
 # Greet the user
-print("Hello! I am AI Bot. What's your name? : ")
+print("Hello! I am AI Bot.")
 
 # Get user input
-name = input()
+name = input("What's your name? :")
 
 # Respond to the user's name
 print(f"Nice to meet you, {name}!")
